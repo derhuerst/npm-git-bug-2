@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"name": "@derhuerst/npm-git-bug-2",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "derhuerst/npm-git-bug-2",
+	"author": "Jannis R <mail@jannisr.de>",
+	"license": "ISC",
+	"dependencies": {
+		"lodash": "^4.17.15"
+	}
+}
